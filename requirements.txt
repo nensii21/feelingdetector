@@ -1,0 +1,13 @@
+# FeelingDetector Requirements - Facial Expression Analysis
+
+# Required for image processing and face detection
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Required: MediaPipe for accurate facial landmark detection
+# MediaPipe provides 468 facial landmarks for precise emotion analysis
+mediapipe>=0.10.0
+
+# Optional: For additional image processing
+# Pillow>=10.0.0
+
