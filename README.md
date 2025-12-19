@@ -225,7 +225,16 @@ python example_facial_analysis.py
 
 ## License
 
-This project is open source and available for use.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The MIT License is a permissive open-source license that allows you to:
+- Use the software commercially
+- Modify the software
+- Distribute the software
+- Sublicense the software
+- Use it privately
+
+The only requirement is that you include the original copyright notice and license text.
 
 ## Contributing
 
